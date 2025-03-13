@@ -29,7 +29,7 @@ function Education() {
 
         <div id='edu' className='h-[auto] border border-[#4BFFA5] rounded-[10px] ps-[20px] p-[15px] pt-[7%] pb-[7%] text-[white]'>
             <p className='text-[#A9A6A9]'>( 2021 - 2024 )</p>
-            <h1 className='mt-[3%] text-[15px] lg:text-[18px] font-semibold text-[#4BFFA5] underline  underline-offset-[5.8px] decoration-[white]' >Bachelor Of Vocational </h1>
+            <h1 className='mt-[3%] text-[15px] lg:text-[18px] font-semibold text-[#4BFFA5] underline  underline-offset-[5.8px] decoration-[white]' >Bachelor of Commerce </h1>
             <h1 className='mt-[5%]' >Atmiya University</h1>
             <h1 className='mt-[5%]  text-[#A9A6A9]' ><i class="ri-map-pin-line"></i> Rajkot, Gujarat</h1>
         </div>
