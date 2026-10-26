@@ -3,7 +3,7 @@ import Video1 from "../assets/Game.mp4";
 import Video2 from "../assets/Time.mp4";
 import Video3 from "../assets/Weather.mp4";
 import AdminPanel from "../assets/AdminPanel.png";
-import SouledStore from "../assets/SouledStore.png";
+import SouledStore from "../assets/Souledstore.png";
 import Flipkart from "../assets/Website-2.png";
 import Addina from "../assets/Website-3.png";
 import Firstcry from "../assets/Firstcry.png";
